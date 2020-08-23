@@ -9,9 +9,9 @@
 - title: "cv"
   href: "/cv/"
 
-- title: "Teaching"
-  href: "/teaching/"
+#- title: "Teaching"
+  #href: "/teaching/"
 
 
-- title: "Blog"
-  href: "/blog/"
+#- title: "Blog"
+ # href: "/blog/"
